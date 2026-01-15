@@ -1,0 +1,13 @@
+- 4 tính chất của OOP: 
++ Kế Thừa
++ Đa Hình
++ Trừu Tượng
++ Đóng Gói
+
+
+- Ví dụ về Trừu Tượng Hóa:
+ Ví dụ về lái xe ô tô:
++ Bạn chỉ cần quan tâm: Chìa Khóa, Đạp Ga, Đạp Phanh
++ Không cần quan tâm: Động Cơ Hoạt Động Như Thế Nào, Xăng Đốt Ra Sao,...
+-> Vô lăng, Bàn Đạp -> ABSTRACTION
+
